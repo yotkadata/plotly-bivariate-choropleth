@@ -1,0 +1,1213 @@
+,nuts_id,nuts_name,cumulated_pop
+0,AT111,Mittelburgenland,4001.0
+1,AT112,Nordburgenland,4136.0
+2,AT113,Südburgenland,4184.0
+3,AT121,Mostviertel-Eisenwurzen,5471.0
+4,AT122,Niederösterreich-Süd,4154.0
+5,AT123,Sankt Pölten,5400.0
+6,AT124,Waldviertel,4454.0
+7,AT125,Weinviertel,3945.0
+8,AT126,Wiener Umland/Nordteil,3557.0
+9,AT127,Wiener Umland/Südteil,4433.0
+10,AT130,Wien,4401.0
+11,AT211,Klagenfurt-Villach,4092.0
+12,AT212,Oberkärnten,4418.0
+13,AT213,Unterkärnten,4351.0
+14,AT221,Graz,4096.0
+15,AT222,Liezen,4391.0
+16,AT223,Östliche Obersteiermark,3764.0
+17,AT224,Oststeiermark,4548.0
+18,AT225,West- und Südsteiermark,4457.0
+19,AT226,Westliche Obersteiermark,4119.0
+20,AT311,Innviertel,5311.0
+21,AT312,Linz-Wels,4747.0
+22,AT313,Mühlviertel,4798.0
+23,AT314,Steyr-Kirchdorf,4761.0
+24,AT315,Traunviertel,5164.0
+25,AT321,Lungau,5251.0
+26,AT322,Pinzgau-Pongau,5218.0
+27,AT323,Salzburg und Umgebung,5172.0
+28,AT331,Außerfern,4649.0
+29,AT332,Innsbruck,4661.0
+30,AT333,Osttirol,5179.0
+31,AT334,Tiroler Oberland,5372.0
+32,AT335,Tiroler Unterland,4964.0
+33,AT341,Bludenz-Bregenzer Wald,3575.0
+34,AT342,Rheintal-Bodenseegebiet,5380.0
+35,BE100,Arr. de Bruxelles-Capitale,3532.0
+36,BE211,Arr. Antwerpen,3263.0
+37,BE212,Arr. Mechelen,3176.0
+38,BE213,Arr. Turnhout,3390.0
+39,BE221,Arr. Hasselt,3303.0
+40,BE222,Arr. Maaseik,3111.0
+41,BE223,Arr. Tongeren,3089.0
+42,BE231,Arr. Aalst,3228.0
+43,BE232,Arr. Dendermonde,3328.0
+44,BE233,Arr. Eeklo,3215.0
+45,BE234,Arr. Gent,3417.0
+46,BE235,Arr. Oudenaarde,3195.0
+47,BE236,Arr. Sint-Niklaas,3452.0
+48,BE241,Arr. Halle-Vilvoorde,3264.0
+49,BE242,Arr. Leuven,2965.0
+50,BE251,Arr. Brugge,3151.0
+51,BE252,Arr. Diksmuide,3614.0
+52,BE253,Arr. Ieper,3372.0
+53,BE254,Arr. Kortrijk,3614.0
+54,BE255,Arr. Oostende,2958.0
+55,BE256,Arr. Roeselare,3720.0
+56,BE257,Arr. Tielt,3617.0
+57,BE258,Arr. Veurne,2388.0
+58,BE310,Arr. Nivelles,3385.0
+59,BE321,Arr. Ath,2796.0
+60,BE322,Arr. Charleroi,3281.0
+61,BE323,Arr. Mons,2898.0
+62,BE324,Arr. Mouscron,3073.0
+63,BE325,Arr. Soignies,1748.0
+64,BE326,Arr. Thuin,3322.0
+65,BE327,Arr. Tournai,2824.0
+66,BE331,Arr. Huy,3086.0
+67,BE332,Arr. Liège,3121.0
+68,BE334,Arr. Waremme,2949.0
+69,BE335,Arr. Verviers,2992.0
+70,BE336,Bezirk Verviers,2986.0
+71,BE341,Arr. Arlon,3409.0
+72,BE342,Arr. Bastogne,3232.0
+73,BE343,Arr. Marche-en-Famenne,2931.0
+74,BE344,Arr. Neufchâteau,3224.0
+75,BE345,Arr. Virton,3197.0
+76,BE351,Arr. Dinant,3044.0
+77,BE352,Arr. Namur,3390.0
+78,BE353,Arr. Philippeville,2850.0
+79,CH011,Vaud,986.0
+80,CH012,Valais,4252.0
+81,CH013,Geneva,4032.0
+82,CH021,Berne,3795.0
+83,CH022,Fribourg,4364.0
+84,CH023,Solothurn,4327.0
+85,CH024,Neuchâtel,4236.0
+86,CH025,Jura,4195.0
+87,CH031,Basel-Stadt,4108.0
+88,CH032,Basel-Landschaft,4242.0
+89,CH033,Aargau,2943.0
+90,CH040,Zürich,3998.0
+91,CH051,Glarus,3299.0
+92,CH052,Schaffhausen,3835.0
+93,CH053,Appenzell Ausserrhoden,663.0
+94,CH054,Appenzell Innerrhoden,5080.0
+95,CH055,St. Gallen,4110.0
+96,CH056,Grisons,4440.0
+97,CH057,Thurgau,4222.0
+98,CH061,Lucerne,4291.0
+99,CH062,Uri,4490.0
+100,CH063,Schwyz,3564.0
+101,CH064,Obwalden,4348.0
+102,CH065,Nidwalden,4240.0
+103,CH066,Zug,3843.0
+104,CH070,Ticino,4221.0
+105,CZ010,Hlavní město Praha,3759.0
+106,CZ020,Středočeský kraj,3805.0
+107,CZ031,Jihočeský kraj,3525.0
+108,CZ032,Plzeňský kraj,3660.0
+109,CZ041,Karlovarský kraj,2863.0
+110,CZ042,Ústecký kraj,3338.0
+111,CZ051,Liberecký kraj,3619.0
+112,CZ052,Královéhradecký kraj,3781.0
+113,CZ053,Pardubický kraj,3791.0
+114,CZ063,Kraj Vysočina,3440.0
+115,CZ064,Jihomoravský kraj,3514.0
+116,CZ071,Olomoucký kraj,3583.0
+117,CZ072,Zlínský kraj,3719.0
+118,CZ080,Moravskoslezský kraj,3495.0
+119,DE111,"Stuttgart, Stadtkreis",2558.0
+120,DE112,Böblingen,2928.0
+121,DE113,Esslingen,2942.0
+122,DE114,Göppingen,3014.0
+123,DE115,Ludwigsburg,2780.0
+124,DE116,Rems-Murr-Kreis,2909.0
+125,DE117,"Heilbronn, Stadtkreis",3381.0
+126,DE118,"Heilbronn, Landkreis",3176.0
+127,DE119,Hohenlohekreis,3140.0
+128,DE11A,Schwäbisch Hall,3084.0
+129,DE11B,Main-Tauber-Kreis,3003.0
+130,DE11C,Heidenheim,3237.0
+131,DE11D,Ostalbkreis,3162.0
+132,DE121,"Baden-Baden, Stadtkreis",2695.0
+133,DE122,"Karlsruhe, Stadtkreis",2600.0
+134,DE123,"Karlsruhe, Landkreis",2903.0
+135,DE124,Rastatt,3030.0
+136,DE125,"Heidelberg, Stadtkreis",2347.0
+137,DE126,"Mannheim, Stadtkreis",2915.0
+138,DE127,Neckar-Odenwald-Kreis,3088.0
+139,DE128,Rhein-Neckar-Kreis,2739.0
+140,DE129,"Pforzheim, Stadtkreis",3280.0
+141,DE12A,Calw,2998.0
+142,DE12B,Enzkreis,2967.0
+143,DE12C,Freudenstadt,3175.0
+144,DE131,"Freiburg im Breisgau, Stadtkreis",2908.0
+145,DE132,Breisgau-Hochschwarzwald,2775.0
+146,DE133,Emmendingen,2948.0
+147,DE134,Ortenaukreis,3339.0
+148,DE135,Rottweil,3508.0
+149,DE136,Schwarzwald-Baar-Kreis,3344.0
+150,DE137,Tuttlingen,3416.0
+151,DE138,Konstanz,2971.0
+152,DE139,Lörrach,2797.0
+153,DE13A,Waldshut,2885.0
+154,DE141,Reutlingen,3073.0
+155,DE142,"Tübingen, Landkreis",2805.0
+156,DE143,Zollernalbkreis,3167.0
+157,DE144,"Ulm, Stadtkreis",3126.0
+158,DE145,Alb-Donau-Kreis,3202.0
+159,DE146,Biberach,3379.0
+160,DE147,Bodenseekreis,3006.0
+161,DE148,Ravensburg,3217.0
+162,DE149,Sigmaringen,3501.0
+163,DE211,Ingolstadt,3396.0
+164,DE212,München,3195.0
+165,DE213,Rosenheim,3777.0
+166,DE214,Altötting,3679.0
+167,DE215,Berchtesgadener Land,3826.0
+168,DE216,Bad Tölz-Wolfratshausen,3394.0
+169,DE217,Dachau,3487.0
+170,DE218,Ebersberg,3307.0
+171,DE219,Eichstätt,3390.0
+172,DE21A,Erding,3660.0
+173,DE21B,Freising,3251.0
+174,DE21C,Fürstenfeldbruck,2984.0
+175,DE21D,Garmisch-Partenkirchen,3128.0
+176,DE21E,Landsberg am Lech,3070.0
+177,DE21F,Miesbach,3339.0
+178,DE21G,Mühldorf a. Inn,4052.0
+179,DE21H,"München, Landkreis",2977.0
+180,DE21I,Neuburg-Schrobenhausen,3607.0
+181,DE21J,Pfaffenhofen a. d. Ilm,3419.0
+182,DE21K,"Rosenheim, Landkreis",3793.0
+183,DE21L,Starnberg,2744.0
+184,DE21M,Traunstein,4004.0
+185,DE21N,Weilheim-Schongau,3260.0
+186,DE221,Landshut,3201.0
+187,DE222,Passau,3320.0
+188,DE223,Straubing,3243.0
+189,DE224,Deggendorf,3677.0
+190,DE225,Freyung-Grafenau,3939.0
+191,DE226,Kelheim,3476.0
+192,DE227,"Landshut, Landkreis",3510.0
+193,DE228,"Passau, Landkreis",3783.0
+194,DE229,Regen,4019.0
+195,DE22A,Rottal-Inn,3820.0
+196,DE22B,Straubing-Bogen,3872.0
+197,DE22C,Dingolfing-Landau,3788.0
+198,DE231,Amberg,2962.0
+199,DE232,Regensburg,3228.0
+200,DE233,Weiden i. d. Opf,3309.0
+201,DE234,Amberg-Sulzbach,2984.0
+202,DE235,Cham,3554.0
+203,DE236,Neumarkt i. d. OPf.,3277.0
+204,DE237,Neustadt a. d. Waldnaab,3558.0
+205,DE238,"Regensburg, Landkreis",3458.0
+206,DE239,Schwandorf,3519.0
+207,DE23A,Tirschenreuth,3367.0
+208,DE241,Bamberg,2807.0
+209,DE242,Bayreuth,3063.0
+210,DE243,Coburg,3295.0
+211,DE244,Hof,3462.0
+212,DE245,"Bamberg, Landkreis",3442.0
+213,DE246,"Bayreuth, Landkreis",3089.0
+214,DE247,"Coburg, Landkreis",3311.0
+215,DE248,Forchheim,3309.0
+216,DE249,"Hof, Landkreis",3209.0
+217,DE24A,Kronach,3560.0
+218,DE24B,Kulmbach,3204.0
+219,DE24C,Lichtenfels,3594.0
+220,DE24D,Wunsiedel i. Fichtelgebirge,3217.0
+221,DE251,Ansbach,3245.0
+222,DE252,Erlangen,2553.0
+223,DE253,Fürth,3255.0
+224,DE254,Nürnberg,3308.0
+225,DE255,Schwabach,3196.0
+226,DE256,"Ansbach, Landkreis",3341.0
+227,DE257,Erlangen-Höchstadt,3113.0
+228,DE258,"Fürth, Landkreis",3099.0
+229,DE259,Nürnberger Land,2966.0
+230,DE25A,Neustadt a. d. Aisch-Bad Windsheim,3059.0
+231,DE25B,Roth,3248.0
+232,DE25C,Weißenburg-Gunzenhausen,3289.0
+233,DE261,Aschaffenburg,3043.0
+234,DE262,Schweinfurt,3716.0
+235,DE263,Würzburg,3376.0
+236,DE264,"Aschaffenburg, Landkreis",2909.0
+237,DE265,Bad Kissingen,3231.0
+238,DE266,Rhön-Grabfeld,3513.0
+239,DE267,Haßberge,3657.0
+240,DE268,Kitzingen,3264.0
+241,DE269,Miltenberg,3278.0
+242,DE26A,Main-Spessart,2787.0
+243,DE26B,"Schweinfurt, Landkreis",3561.0
+244,DE26C,"Würzburg, Landkreis",3068.0
+245,DE271,Augsburg,3339.0
+246,DE272,Kaufbeuren,3279.0
+247,DE273,Kempten (Allgäu),3415.0
+248,DE274,Memmingen,3445.0
+249,DE275,Aichach-Friedberg,3317.0
+250,DE276,"Augsburg, Landkreis",3279.0
+251,DE277,Dillingen a.d. Donau,3549.0
+252,DE278,Günzburg,3521.0
+253,DE279,Neu-Ulm,3174.0
+254,DE27A,Lindau (Bodensee),3254.0
+255,DE27B,Ostallgäu,3520.0
+256,DE27C,Unterallgäu,3619.0
+257,DE27D,Donau-Ries,3547.0
+258,DE27E,Oberallgäu,3345.0
+259,DE300,Berlin,2618.0
+260,DE401,Brandenburg an der Havel,2630.0
+261,DE402,Cottbus,3450.0
+262,DE403,Frankfurt (Oder),2875.0
+263,DE404,Potsdam,2738.0
+264,DE405,Barnim,2499.0
+265,DE406,Dahme-Spreewald,2969.0
+266,DE407,Elbe-Elster,3461.0
+267,DE408,Havelland,2530.0
+268,DE409,Märkisch-Oderland,2780.0
+269,DE40A,Oberhavel,2668.0
+270,DE40B,Oberspreewald-Lausitz,3419.0
+271,DE40C,Oder-Spree,3070.0
+272,DE40D,Ostprignitz-Ruppin,2868.0
+273,DE40E,Potsdam-Mittelmark,2796.0
+274,DE40F,Prignitz,3166.0
+275,DE40G,Spree-Neiße,3441.0
+276,DE40H,Teltow-Fläming,2961.0
+277,DE40I,Uckermark,2768.0
+278,DE501,Bremen,2451.0
+279,DE502,Bremerhaven,2834.0
+280,DE600,Hamburg,2727.0
+281,DE711,Darmstadt,2385.0
+282,DE712,Frankfurt am Main,2735.0
+283,DE713,Offenbach am Main,3101.0
+284,DE714,Wiesbaden,2737.0
+285,DE715,Bergstraße,2662.0
+286,DE716,Darmstadt-Dieburg,2352.0
+287,DE717,Groß-Gerau,2534.0
+288,DE718,Hochtaunuskreis,2268.0
+289,DE719,Main-Kinzig-Kreis,2727.0
+290,DE71A,Main-Taunus-Kreis,2439.0
+291,DE71B,Odenwaldkreis,2693.0
+292,DE71C,"Offenbach, Landkreis",2685.0
+293,DE71D,Rheingau-Taunus-Kreis,2409.0
+294,DE71E,Wetteraukreis,2447.0
+295,DE721,"Gießen, Landkreis",2634.0
+296,DE722,Lahn-Dill-Kreis,2596.0
+297,DE723,Limburg-Weilburg,2602.0
+298,DE724,Marburg-Biedenkopf,2464.0
+299,DE725,Vogelsbergkreis,2439.0
+300,DE731,Kassel,2222.0
+301,DE732,Fulda,3289.0
+302,DE733,Hersfeld-Rotenburg,2345.0
+303,DE734,"Kassel, Landkreis",1909.0
+304,DE735,Schwalm-Eder-Kreis,2140.0
+305,DE736,Waldeck-Frankenberg,2301.0
+306,DE737,Werra-Meißner-Kreis,2155.0
+307,DE803,Rostock,2795.0
+308,DE804,Schwerin,2759.0
+309,DE80J,Mecklenburgische Seenplatte,2188.0
+310,DE80K,Landkreis Rostock,3070.0
+311,DE80L,Vorpommern-Rügen,2696.0
+312,DE80M,Nordwestmecklenburg,2825.0
+313,DE80N,Vorpommern-Greifswald,2943.0
+314,DE80O,Ludwigslust-Parchim,3002.0
+315,DE911,Braunschweig,2253.0
+316,DE912,Salzgitter,2993.0
+317,DE913,Wolfsburg,2711.0
+318,DE914,Gifhorn,2559.0
+319,DE916,Goslar,2124.0
+320,DE917,Helmstedt,2427.0
+321,DE918,Northeim,2236.0
+322,DE91A,Peine,2653.0
+323,DE91B,Wolfenbüttel,2222.0
+324,DE91C,Göttingen,2171.0
+325,DE922,Diepholz,2378.0
+326,DE923,Hameln-Pyrmont,2396.0
+327,DE925,Hildesheim,2362.0
+328,DE926,Holzminden,2240.0
+329,DE927,Nienburg (Weser),2341.0
+330,DE928,Schaumburg,2409.0
+331,DE929,Region Hannover,2624.0
+332,DE931,Celle,2356.0
+333,DE932,Cuxhaven,2208.0
+334,DE933,Harburg,2228.0
+335,DE934,Lüchow-Dannenberg,1981.0
+336,DE935,"Lüneburg, Landkreis",2217.0
+337,DE936,Osterholz,2114.0
+338,DE937,Rotenburg (Wümme),2229.0
+339,DE938,Heidekreis,2174.0
+340,DE939,Stade,2154.0
+341,DE93A,Uelzen,2049.0
+342,DE93B,Verden,2332.0
+343,DE941,Delmenhorst,2494.0
+344,DE942,Emden,2684.0
+345,DE943,Oldenburg (Oldenburg),2212.0
+346,DE944,Osnabrück,2703.0
+347,DE945,Wilhelmshaven,2198.0
+348,DE946,Ammerland,1950.0
+349,DE947,Aurich,2403.0
+350,DE948,Cloppenburg,3168.0
+351,DE949,Emsland,3262.0
+352,DE94A,Friesland (DE),1936.0
+353,DE94B,Grafschaft Bentheim,3175.0
+354,DE94C,Leer,2415.0
+355,DE94D,"Oldenburg, Landkreis",2398.0
+356,DE94E,"Osnabrück, Landkreis",2859.0
+357,DE94F,Vechta,3855.0
+358,DE94G,Wesermarsch,2212.0
+359,DE94H,Wittmund,2257.0
+360,DEA11,Düsseldorf,2718.0
+361,DEA12,Duisburg,2134.0
+362,DEA13,Essen,2293.0
+363,DEA14,Krefeld,2622.0
+364,DEA15,Mönchengladbach,2557.0
+365,DEA16,Mülheim an der Ruhr,2281.0
+366,DEA17,Oberhausen,2225.0
+367,DEA18,Remscheid,2764.0
+368,DEA19,Solingen,3099.0
+369,DEA1A,Wuppertal,2862.0
+370,DEA1B,Kleve,2272.0
+371,DEA1C,Mettmann,2691.0
+372,DEA1D,Rhein-Kreis Neuss,2469.0
+373,DEA1E,Viersen,2399.0
+374,DEA1F,Wesel,2394.0
+375,DEA22,Bonn,2608.0
+376,DEA23,Köln,2971.0
+377,DEA24,Leverkusen,2773.0
+378,DEA26,Düren,2890.0
+379,DEA27,Rhein-Erft-Kreis,2740.0
+380,DEA28,Euskirchen,2694.0
+381,DEA29,Heinsberg,2080.0
+382,DEA2A,Oberbergischer Kreis,2916.0
+383,DEA2B,Rheinisch-Bergischer Kreis,2552.0
+384,DEA2C,Rhein-Sieg-Kreis,2378.0
+385,DEA2D,Städteregion Aachen,2617.0
+386,DEA31,Bottrop,2445.0
+387,DEA32,Gelsenkirchen,2518.0
+388,DEA33,Münster,2484.0
+389,DEA34,Borken,3234.0
+390,DEA35,Coesfeld,2578.0
+391,DEA36,Recklinghausen,2380.0
+392,DEA37,Steinfurt,2838.0
+393,DEA38,Warendorf,2743.0
+394,DEA41,Bielefeld,2794.0
+395,DEA42,Gütersloh,3096.0
+396,DEA43,Herford,3116.0
+397,DEA44,Höxter,2379.0
+398,DEA45,Lippe,2704.0
+399,DEA46,Minden-Lübbecke,3227.0
+400,DEA47,Paderborn,2232.0
+401,DEA51,Bochum,2251.0
+402,DEA52,Dortmund,2578.0
+403,DEA53,Hagen,2758.0
+404,DEA54,Hamm,2782.0
+405,DEA55,Herne,2699.0
+406,DEA56,Ennepe-Ruhr-Kreis,2309.0
+407,DEA57,Hochsauerlandkreis,2556.0
+408,DEA58,Märkischer Kreis,2754.0
+409,DEA59,Olpe,2416.0
+410,DEA5A,Siegen-Wittgenstein,2693.0
+411,DEA5B,Soest,2424.0
+412,DEA5C,Unna,2310.0
+413,DEB11,Koblenz,2554.0
+414,DEB12,Ahrweiler,2181.0
+415,DEB13,Altenkirchen (Westerwald),2297.0
+416,DEB14,Bad Kreuznach,2676.0
+417,DEB15,Birkenfeld,2539.0
+418,DEB17,Mayen-Koblenz,2499.0
+419,DEB18,Neuwied,2263.0
+420,DEB1A,Rhein-Lahn-Kreis,2240.0
+421,DEB1B,Westerwaldkreis,2427.0
+422,DEB1C,Cochem-Zell,2406.0
+423,DEB1D,Rhein-Hunsrück-Kreis,2225.0
+424,DEB21,Trier,2289.0
+425,DEB22,Bernkastel-Wittlich,2196.0
+426,DEB23,Eifelkreis Bitburg-Prüm,2214.0
+427,DEB24,Vulkaneifel,2598.0
+428,DEB25,Trier-Saarburg,2304.0
+429,DEB31,Frankenthal (Pfalz),2647.0
+430,DEB32,Kaiserslautern,2682.0
+431,DEB33,Landau in der Pfalz,2489.0
+432,DEB34,Ludwigshafen am Rhein,2795.0
+433,DEB35,Mainz,2690.0
+434,DEB36,Neustadt an der Weinstraße,2504.0
+435,DEB37,Pirmasens,2259.0
+436,DEB38,Speyer,2959.0
+437,DEB39,Worms,2840.0
+438,DEB3A,Zweibrücken,2208.0
+439,DEB3B,Alzey-Worms,2493.0
+440,DEB3C,Bad Dürkheim,2231.0
+441,DEB3D,Donnersbergkreis,2485.0
+442,DEB3E,Germersheim,2988.0
+443,DEB3F,"Kaiserslautern, Landkreis",3013.0
+444,DEB3G,Kusel,2268.0
+445,DEB3H,Südliche Weinstraße,2384.0
+446,DEB3I,Rhein-Pfalz-Kreis,2510.0
+447,DEB3J,Mainz-Bingen,2492.0
+448,DEB3K,Südwestpfalz,2094.0
+449,DEC01,Regionalverband Saarbrücken,2809.0
+450,DEC02,Merzig-Wadern,2887.0
+451,DEC03,Neunkirchen,2768.0
+452,DEC04,Saarlouis,3001.0
+453,DEC05,Saarpfalz-Kreis,2764.0
+454,DEC06,St. Wendel,2760.0
+455,DED21,Dresden,3525.0
+456,DED2C,Bautzen,3862.0
+457,DED2D,Görlitz,3379.0
+458,DED2E,Meißen,3652.0
+459,DED2F,Sächsische Schweiz-Osterzgebirge,3931.0
+460,DED41,Chemnitz,3122.0
+461,DED42,Erzgebirgskreis,3758.0
+462,DED43,Mittelsachsen,3512.0
+463,DED44,Vogtlandkreis,3459.0
+464,DED45,Zwickau,3416.0
+465,DED51,Leipzig,3051.0
+466,DED52,Leipzig,3464.0
+467,DED53,Nordsachsen,3403.0
+468,DEE01,Dessau-Roßlau,2756.0
+469,DEE02,Halle (Saale),2903.0
+470,DEE03,Magdeburg,2550.0
+471,DEE04,Altmarkkreis Salzwedel,3010.0
+472,DEE05,Anhalt-Bitterfeld,3082.0
+473,DEE06,Jerichower Land,3018.0
+474,DEE07,Börde,3116.0
+475,DEE08,Burgenlandkreis,3340.0
+476,DEE09,Harz,3038.0
+477,DEE0A,Mansfeld-Südharz,3187.0
+478,DEE0B,Saalekreis,3350.0
+479,DEE0C,Salzlandkreis,2950.0
+480,DEE0D,Stendal,2857.0
+481,DEE0E,Wittenberg,3071.0
+482,DEF01,Flensburg,2465.0
+483,DEF02,Kiel,2104.0
+484,DEF03,Lübeck,2146.0
+485,DEF04,Neumünster,2178.0
+486,DEF05,Dithmarschen,2116.0
+487,DEF06,Herzogtum Lauenburg,2089.0
+488,DEF07,Nordfriesland,2173.0
+489,DEF08,Ostholstein,1648.0
+490,DEF09,Pinneberg,2130.0
+491,DEF0A,Plön,1601.0
+492,DEF0B,Rendsburg-Eckernförde,1924.0
+493,DEF0C,Schleswig-Flensburg,1993.0
+494,DEF0D,Segeberg,2211.0
+495,DEF0E,Steinburg,1604.0
+496,DEF0F,Stormarn,2045.0
+497,DEG01,Erfurt,2806.0
+498,DEG02,Gera,2962.0
+499,DEG03,Jena,2952.0
+500,DEG04,Suhl,2657.0
+501,DEG05,Weimar,3141.0
+502,DEG06,Eichsfeld,3371.0
+503,DEG07,Nordhausen,2777.0
+504,DEG09,Unstrut-Hainich-Kreis,3155.0
+505,DEG0A,Kyffhäuserkreis,2852.0
+506,DEG0B,Schmalkalden-Meiningen,3319.0
+507,DEG0C,Gotha,3055.0
+508,DEG0D,Sömmerda,3233.0
+509,DEG0E,Hildburghausen,3549.0
+510,DEG0F,Ilm-Kreis,3343.0
+511,DEG0G,Weimarer Land,3143.0
+512,DEG0H,Sonneberg,3351.0
+513,DEG0I,Saalfeld-Rudolstadt,3329.0
+514,DEG0J,Saale-Holzland-Kreis,3467.0
+515,DEG0K,Saale-Orla-Kreis,3594.0
+516,DEG0L,Greiz,3163.0
+517,DEG0M,Altenburger Land,3347.0
+518,DEG0N,Eisenach,466.0
+519,DEG0P,Wartburgkreis,3871.0
+520,DK011,Byen København,5769.0
+521,DK012,Københavns omegn,5720.0
+522,DK013,Nordsjælland,5212.0
+523,DK014,Bornholm,4838.0
+524,DK021,Østsjælland,5373.0
+525,DK022,Vest- og Sydsjælland,4665.0
+526,DK031,Fyn,5064.0
+527,DK032,Sydjylland,5047.0
+528,DK041,Vestjylland,5246.0
+529,DK042,Østjylland,5323.0
+530,DK050,Nordjylland,5336.0
+531,EE001,Põhja-Eesti,4570.0
+532,EE004,Lääne-Eesti,3657.0
+533,EE006,Kesk-Eesti,3734.0
+534,EE007,Kirde-Eesti,4190.0
+535,EE008,Lõuna-Eesti,3886.0
+536,EL30,Attiki,2961.0
+537,EL41,Voreio Aigaio,2406.0
+538,EL42,Notio Aigaio,2739.0
+539,EL43,Kriti,3375.0
+540,EL51,"Anatoliki Makedonia, Thraki",2596.0
+541,EL52,Kentriki Makedonia,3108.0
+542,EL53,Dytiki Makedonia,3192.0
+543,EL54,Ipeiros,2653.0
+544,EL61,Thessalia,3000.0
+545,EL62,Ionia Nisia,2859.0
+546,EL63,Dytiki Ellada,2808.0
+547,EL64,Sterea Ellada,2369.0
+548,EL65,Peloponnisos,2629.0
+549,ES111,A Coruña,2141.0
+550,ES112,Lugo,1897.0
+551,ES113,Ourense,2234.0
+552,ES114,Pontevedra,2235.0
+553,ES120,Asturias,2030.0
+554,ES130,Cantabria,2215.0
+555,ES211,Araba/Álava,2767.0
+556,ES212,Gipuzkoa,3365.0
+557,ES213,Bizkaia,2882.0
+558,ES220,Navarra,3470.0
+559,ES230,La Rioja,2867.0
+560,ES241,Huesca,3154.0
+561,ES242,Teruel,2994.0
+562,ES243,Zaragoza,3017.0
+563,ES300,Madrid,2344.0
+564,ES411,Ávila,2424.0
+565,ES412,Burgos,2965.0
+566,ES413,León,2360.0
+567,ES414,Palencia,3158.0
+568,ES415,Salamanca,2589.0
+569,ES416,Segovia,2589.0
+570,ES417,Soria,2646.0
+571,ES418,Valladolid,3020.0
+572,ES419,Zamora,2380.0
+573,ES421,Albacete,2161.0
+574,ES422,Ciudad Real,2194.0
+575,ES423,Cuenca,2454.0
+576,ES424,Guadalajara,2526.0
+577,ES425,Toledo,2346.0
+578,ES431,Badajoz,2452.0
+579,ES432,Cáceres,2193.0
+580,ES511,Barcelona,3052.0
+581,ES512,Girona,3029.0
+582,ES513,Lleida,3185.0
+583,ES514,Tarragona,2815.0
+584,ES521,Alicante / Alacant,2471.0
+585,ES522,Castellón / Castelló,2814.0
+586,ES523,Valencia / València,2829.0
+587,ES611,Almería,1909.0
+588,ES612,Cádiz,1517.0
+589,ES613,Córdoba,1827.0
+590,ES614,Granada,1849.0
+591,ES615,Huelva,1577.0
+592,ES616,Jaén,1783.0
+593,ES617,Málaga,1609.0
+594,ES618,Sevilla,1456.0
+595,ES620,Murcia,2621.0
+596,ES630,Ceuta,2365.0
+597,ES640,Melilla,2440.0
+598,FI193,Keski-Suomi,1141.0
+599,FI194,Etelä-Pohjanmaa,1234.0
+600,FI195,Pohjanmaa,2081.0
+601,FI196,Satakunta,1513.0
+602,FI197,Pirkanmaa,1549.0
+603,FI1B1,Helsinki-Uusimaa,2419.0
+604,FI1C1,Varsinais-Suomi,1629.0
+605,FI1C2,Kanta-Häme,1316.0
+606,FI1C3,Päijät-Häme,1779.0
+607,FI1C4,Kymenlaakso,1803.0
+608,FI1C5,Etelä-Karjala,1689.0
+609,FI1D1,Etelä-Savo,1827.0
+610,FI1D2,Pohjois-Savo,1104.0
+611,FI1D3,Pohjois-Karjala,1086.0
+612,FI1D5,Keski-Pohjanmaa,1872.0
+613,FI1D7,Lappi,1451.0
+614,FI1D8,Kainuu,1909.0
+615,FI1D9,Pohjois-Pohjanmaa,1421.0
+616,FI200,Åland,3108.0
+617,FR101,Paris,4630.0
+618,FR102,Seine-et-Marne,4125.0
+619,FR103,Yvelines,4188.0
+620,FR104,Essonne,4118.0
+621,FR105,Hauts-de-Seine,4322.0
+622,FR106,Seine-Saint-Denis,3996.0
+623,FR107,Val-de-Marne,4298.0
+624,FR108,Val-d’Oise,4332.0
+625,FRB01,Cher,3300.0
+626,FRB02,Eure-et-Loir,3387.0
+627,FRB03,Indre,3018.0
+628,FRB04,Indre-et-Loire,3662.0
+629,FRB05,Loir-et-Cher,3167.0
+630,FRB06,Loiret,3506.0
+631,FRC11,Côte-d’Or,3867.0
+632,FRC12,Nièvre,3134.0
+633,FRC13,Saône-et-Loire,3593.0
+634,FRC14,Yonne,3405.0
+635,FRC21,Doubs,4192.0
+636,FRC22,Jura,4056.0
+637,FRC23,Haute-Saône,3590.0
+638,FRC24,Territoire de Belfort,3871.0
+639,FRD11,Calvados,3641.0
+640,FRD12,Manche,3423.0
+641,FRD13,Orne,3314.0
+642,FRD21,Eure,3439.0
+643,FRD22,Seine-Maritime,3801.0
+644,FRE11,Nord,4375.0
+645,FRE12,Pas-de-Calais,3987.0
+646,FRE21,Aisne,3476.0
+647,FRE22,Oise,3769.0
+648,FRE23,Somme,3603.0
+649,FRF11,Bas-Rhin,4297.0
+650,FRF12,Haut-Rhin,3940.0
+651,FRF21,Ardennes,4048.0
+652,FRF22,Aube,3473.0
+653,FRF23,Marne,3633.0
+654,FRF24,Haute-Marne,3502.0
+655,FRF31,Meurthe-et-Moselle,3963.0
+656,FRF32,Meuse,3545.0
+657,FRF33,Moselle,4051.0
+658,FRF34,Vosges,3594.0
+659,FRG01,Loire-Atlantique,3786.0
+660,FRG02,Maine-et-Loire,3732.0
+661,FRG03,Mayenne,3525.0
+662,FRG04,Sarthe,3597.0
+663,FRG05,Vendée,3626.0
+664,FRH01,Côtes-d’Armor,3296.0
+665,FRH02,Finistère,3207.0
+666,FRH03,Ille-et-Vilaine,3984.0
+667,FRH04,Morbihan,3405.0
+668,FRI11,Dordogne,3257.0
+669,FRI12,Gironde,3985.0
+670,FRI13,Landes,3918.0
+671,FRI14,Lot-et-Garonne,3625.0
+672,FRI15,Pyrénées-Atlantiques,4166.0
+673,FRI21,Corrèze,3558.0
+674,FRI22,Creuse,3110.0
+675,FRI23,Haute-Vienne,3630.0
+676,FRI31,Charente,3279.0
+677,FRI32,Charente-Maritime,3302.0
+678,FRI33,Deux-Sèvres,3581.0
+679,FRI34,Vienne,3505.0
+680,FRJ11,Aude,3623.0
+681,FRJ12,Gard,4096.0
+682,FRJ13,Hérault,4163.0
+683,FRJ14,Lozère,3626.0
+684,FRJ15,Pyrénées-Orientales,3799.0
+685,FRJ21,Ariège,3792.0
+686,FRJ22,Aveyron,4047.0
+687,FRJ23,Haute-Garonne,4392.0
+688,FRJ24,Gers,3534.0
+689,FRJ25,Lot,3370.0
+690,FRJ26,Hautes-Pyrénées,3923.0
+691,FRJ27,Tarn,3920.0
+692,FRJ28,Tarn-et-Garonne,4003.0
+693,FRK11,Allier,3447.0
+694,FRK12,Cantal,3300.0
+695,FRK13,Haute-Loire,4193.0
+696,FRK14,Puy-de-Dôme,3738.0
+697,FRK21,Ain,4184.0
+698,FRK22,Ardèche,3974.0
+699,FRK23,Drôme,4075.0
+700,FRK24,Isère,4361.0
+701,FRK25,Loire,4411.0
+702,FRK26,Rhône,4684.0
+703,FRK27,Savoie,4255.0
+704,FRK28,Haute-Savoie,4411.0
+705,FRL01,Alpes-de-Haute-Provence,4021.0
+706,FRL02,Hautes-Alpes,4098.0
+707,FRL03,Alpes-Maritimes,4596.0
+708,FRL04,Bouches-du-Rhône,4974.0
+709,FRL05,Var,4252.0
+710,FRL06,Vaucluse,4216.0
+711,FRM01,Corse-du-Sud,3924.0
+712,FRM02,Haute-Corse,3816.0
+713,HR031,Primorsko-goranska županija,3567.0
+714,HR032,Ličko-senjska županija,2347.0
+715,HR033,Zadarska županija,2837.0
+716,HR034,Šibensko-kninska županija,3181.0
+717,HR035,Splitsko-dalmatinska županija,3308.0
+718,HR036,Istarska županija,1336.0
+719,HR037,Dubrovačko-neretvanska županija,3124.0
+720,HR041,Grad Zagreb,3064.0
+721,HR042,Zagrebačka županija,2836.0
+722,HR043,Krapinsko-zagorska županija,2297.0
+723,HR044,Varaždinska županija,3187.0
+724,HR045,Koprivničko-križevačka županija,2225.0
+725,HR046,Međimurska županija,3490.0
+726,HR047,Bjelovarsko-bilogorska županija,2083.0
+727,HR048,Virovitičko-podravska županija,1940.0
+728,HR049,Požeško-slavonska županija,1881.0
+729,HR04A,Brodsko-posavska županija,2239.0
+730,HR04B,Osječko-baranjska županija,2128.0
+731,HR04C,Vukovarsko-srijemska županija,1880.0
+732,HR04D,Karlovačka županija,2427.0
+733,HR04E,Sisačko-moslavačka županija,2365.0
+734,HU110,Budapest,1906.0
+735,HU120,Pest,1981.0
+736,HU211,Fejér,1855.0
+737,HU212,Komárom-Esztergom,1961.0
+738,HU213,Veszprém,2234.0
+739,HU221,Győr-Moson-Sopron,2116.0
+740,HU222,Vas,2152.0
+741,HU223,Zala,1921.0
+742,HU231,Baranya,2303.0
+743,HU232,Somogy,2009.0
+744,HU233,Tolna,1938.0
+745,HU311,Borsod-Abaúj-Zemplén,1730.0
+746,HU312,Heves,1822.0
+747,HU313,Nógrád,2160.0
+748,HU321,Hajdú-Bihar,1958.0
+749,HU322,Jász-Nagykun-Szolnok,1825.0
+750,HU323,Szabolcs-Szatmár-Bereg,1948.0
+751,HU331,Bács-Kiskun,1880.0
+752,HU332,Békés,1739.0
+753,HU333,Csongrád,1969.0
+754,IE041,Border,3156.0
+755,IE042,West,2982.0
+756,IE051,Mid-West,3034.0
+757,IE052,South-East,2908.0
+758,IE053,South-West,2711.0
+759,IE061,Dublin,3226.0
+760,IE062,Mid-East,3100.0
+761,IE063,Midland,3139.0
+762,ITC11,Torino,2572.0
+763,ITC12,Vercelli,2295.0
+764,ITC13,Biella,2359.0
+765,ITC14,Verbano-Cusio-Ossola,2569.0
+766,ITC15,Novara,2222.0
+767,ITC16,Cuneo,2392.0
+768,ITC17,Asti,2383.0
+769,ITC18,Alessandria,2264.0
+770,ITC20,Valle d’Aosta/Vallée d’Aoste,2434.0
+771,ITC31,Imperia,2716.0
+772,ITC32,Savona,2331.0
+773,ITC33,Genova,2434.0
+774,ITC34,La Spezia,2535.0
+775,ITC41,Varese,2747.0
+776,ITC42,Como,2705.0
+777,ITC43,Lecco,2274.0
+778,ITC44,Sondrio,2408.0
+779,ITC46,Bergamo,1745.0
+780,ITC47,Brescia,2559.0
+781,ITC48,Pavia,2531.0
+782,ITC49,Lodi,2406.0
+783,ITC4A,Cremona,2306.0
+784,ITC4B,Mantova,2674.0
+785,ITC4C,Milano,2612.0
+786,ITC4D,Monza e della Brianza,2730.0
+787,ITF11,L’Aquila,2485.0
+788,ITF12,Teramo,2824.0
+789,ITF13,Pescara,2470.0
+790,ITF14,Chieti,2530.0
+791,ITF21,Isernia,1740.0
+792,ITF22,Campobasso,1818.0
+793,ITF31,Caserta,2537.0
+794,ITF32,Benevento,2134.0
+795,ITF33,Napoli,2747.0
+796,ITF34,Avellino,2174.0
+797,ITF35,Salerno,2404.0
+798,ITF43,Taranto,2327.0
+799,ITF44,Brindisi,2380.0
+800,ITF45,Lecce,2532.0
+801,ITF46,Foggia,2437.0
+802,ITF47,Bari,2633.0
+803,ITF48,Barletta-Andria-Trani,2367.0
+804,ITF51,Potenza,2079.0
+805,ITF52,Matera,2065.0
+806,ITF61,Cosenza,1183.0
+807,ITF62,Crotone,1995.0
+808,ITF63,Catanzaro,1319.0
+809,ITF64,Vibo Valentia,2358.0
+810,ITF65,Reggio di Calabria,2423.0
+811,ITG11,Trapani,1897.0
+812,ITG12,Palermo,2052.0
+813,ITG13,Messina,2406.0
+814,ITG14,Agrigento,1924.0
+815,ITG15,Caltanissetta,2481.0
+816,ITG16,Enna,1884.0
+817,ITG17,Catania,2038.0
+818,ITG18,Ragusa,2431.0
+819,ITG19,Siracusa,2438.0
+820,ITG25,Sassari,2182.0
+821,ITG26,Nuoro,2436.0
+822,ITG27,Cagliari,1285.0
+823,ITG28,Oristano,4871.0
+824,ITH10,Bolzano-Bozen,3877.0
+825,ITH20,Trento,2795.0
+826,ITH31,Verona,3048.0
+827,ITH32,Vicenza,3156.0
+828,ITH33,Belluno,2969.0
+829,ITH34,Treviso,3290.0
+830,ITH35,Venezia,3072.0
+831,ITH36,Padova,3159.0
+832,ITH37,Rovigo,2833.0
+833,ITH41,Pordenone,2694.0
+834,ITH42,Udine,2757.0
+835,ITH43,Gorizia,2838.0
+836,ITH44,Trieste,3268.0
+837,ITH51,Piacenza,2203.0
+838,ITH52,Parma,2314.0
+839,ITH53,Reggio nell’Emilia,2726.0
+840,ITH54,Modena,2691.0
+841,ITH55,Bologna,3007.0
+842,ITH56,Ferrara,2673.0
+843,ITH57,Ravenna,3194.0
+844,ITH58,Forlì-Cesena,3403.0
+845,ITH59,Rimini,3700.0
+846,ITI11,Massa-Carrara,2608.0
+847,ITI12,Lucca,2851.0
+848,ITI13,Pistoia,2872.0
+849,ITI14,Firenze,2922.0
+850,ITI15,Prato,2822.0
+851,ITI16,Livorno,2753.0
+852,ITI17,Pisa,2836.0
+853,ITI18,Arezzo,2820.0
+854,ITI19,Siena,2714.0
+855,ITI1A,Grosseto,2489.0
+856,ITI21,Perugia,2829.0
+857,ITI22,Terni,2561.0
+858,ITI31,Pesaro e Urbino,2298.0
+859,ITI32,Ancona,2732.0
+860,ITI33,Macerata,2637.0
+861,ITI34,Ascoli Piceno,2773.0
+862,ITI35,Fermo,2887.0
+863,ITI41,Viterbo,2162.0
+864,ITI42,Rieti,2741.0
+865,ITI43,Roma,2428.0
+866,ITI44,Latina,2536.0
+867,ITI45,Frosinone,2350.0
+868,LV003,Kurzeme,492.0
+869,LV005,Latgale,984.0
+870,LV006,Rīga,752.0
+871,LV007,Pierīga,695.0
+872,LV008,Vidzeme,593.0
+873,LV009,Zemgale,735.0
+874,NL111,Oost-Groningen,3535.0
+875,NL112,Delfzijl en omgeving,3573.0
+876,NL113,Overig Groningen,4298.0
+877,NL124,Noord-Friesland,3956.0
+878,NL125,Zuidwest-Friesland,4214.0
+879,NL126,Zuidoost-Friesland,3870.0
+880,NL131,Noord-Drenthe,3701.0
+881,NL132,Zuidoost-Drenthe,3877.0
+882,NL133,Zuidwest-Drenthe,4066.0
+883,NL211,Noord-Overijssel,4569.0
+884,NL212,Zuidwest-Overijssel,4536.0
+885,NL213,Twente,4441.0
+886,NL221,Veluwe,4423.0
+887,NL224,Zuidwest-Gelderland,4603.0
+888,NL225,Achterhoek,4365.0
+889,NL226,Arnhem/Nijmegen,4320.0
+890,NL230,Flevoland,3921.0
+891,NL310,Utrecht,4846.0
+892,NL321,Kop van Noord-Holland,4136.0
+893,NL323,IJmond,4274.0
+894,NL324,Agglomeratie Haarlem,4237.0
+895,NL325,Zaanstreek,4272.0
+896,NL327,Het Gooi en Vechtstreek,4294.0
+897,NL328,Alkmaar en omgeving,3443.0
+898,NL329,Groot-Amsterdam,4536.0
+899,NL332,Agglomeratie ’s-Gravenhage,4131.0
+900,NL333,Delft en Westland,4575.0
+901,NL337,Agglomeratie Leiden en Bollenstreek,4476.0
+902,NL33A,Zuidoost-Zuid-Holland,4100.0
+903,NL33B,Oost-Zuid-Holland,4541.0
+904,NL33C,Groot-Rijnmond,4340.0
+905,NL341,Zeeuwsch-Vlaanderen,3844.0
+906,NL342,Overig Zeeland,4367.0
+907,NL411,West-Noord-Brabant,4493.0
+908,NL412,Midden-Noord-Brabant,4477.0
+909,NL413,Noordoost-Noord-Brabant,4024.0
+910,NL414,Zuidoost-Noord-Brabant,4446.0
+911,NL421,Noord-Limburg,4924.0
+912,NL422,Midden-Limburg,4497.0
+913,NL423,Zuid-Limburg,4358.0
+914,NO011,Oslo,3508.0
+915,NO012,Akershus,2927.0
+916,NO021,Hedmark,2242.0
+917,NO022,Oppland,1923.0
+918,NO031,Østfold,2716.0
+919,NO032,Buskerud,3595.0
+920,NO033,Vestfold,2415.0
+921,NO034,Telemark,2159.0
+922,NO041,Aust-Agder,1926.0
+923,NO042,Vest-Agder,2969.0
+924,NO043,Rogaland,2508.0
+925,NO051,Hordaland,2452.0
+926,NO052,Sogn og Fjordane,1144.0
+927,NO053,Møre og Romsdal,1973.0
+928,NO060,Nordland,2124.0
+929,NO071,Nordland,1608.0
+930,NO072,Troms,1985.0
+931,NO073,Finnmark,1900.0
+932,PL21,Małopolskie,978.0
+933,PL22,Śląskie,1135.0
+934,PL41,Wielkopolskie,1140.0
+935,PL42,Zachodniopomorskie,1190.0
+936,PL43,Lubuskie,1056.0
+937,PL51,Dolnośląskie,1093.0
+938,PL52,Opolskie,1127.0
+939,PL61,Kujawsko-pomorskie,1198.0
+940,PL62,Warmińsko-mazurskie,1204.0
+941,PL63,Pomorskie,1168.0
+942,PL71,Łódzkie,1054.0
+943,PL72,Świętokrzyskie,828.0
+944,PL81,Lubelskie,1031.0
+945,PL82,Podkarpackie,862.0
+946,PL84,Podlaskie,971.0
+947,PL91,Warszawski stołeczny,2017.0
+948,PL92,Mazowiecki regionalny,2681.0
+949,PT111,Alto Minho,2662.0
+950,PT112,Cávado,3719.0
+951,PT119,Ave,3590.0
+952,PT11A,Área Metropolitana do Porto,3421.0
+953,PT11B,Alto Tâmega,2550.0
+954,PT11C,Tâmega e Sousa,3080.0
+955,PT11D,Douro,2449.0
+956,PT11E,Terras de Trás-os-Montes,2351.0
+957,PT150,Algarve,2941.0
+958,PT16B,Oeste,2709.0
+959,PT16D,Região de Aveiro,3130.0
+960,PT16E,Região de Coimbra,2710.0
+961,PT16F,Região de Leiria,2905.0
+962,PT16G,Viseu Dão Lafões,2923.0
+963,PT16H,Beira Baixa,2588.0
+964,PT16I,Médio Tejo,2583.0
+965,PT16J,Beiras e Serra da Estrela,2756.0
+966,PT170,Área Metropolitana de Lisboa,3052.0
+967,PT181,Alentejo Litoral,2286.0
+968,PT184,Baixo Alentejo,2518.0
+969,PT185,Lezíria do Tejo,2637.0
+970,PT186,Alto Alentejo,2521.0
+971,PT187,Alentejo Central,2425.0
+972,PT200,Região Autónoma dos Açores,2269.0
+973,RO111,Bihor,1438.0
+974,RO112,Bistriţa-Năsăud,1068.0
+975,RO113,Cluj,2258.0
+976,RO114,Maramureş,1090.0
+977,RO115,Satu Mare,976.0
+978,RO116,Sălaj,1260.0
+979,RO121,Alba,1648.0
+980,RO122,Braşov,1938.0
+981,RO123,Covasna,953.0
+982,RO124,Harghita,705.0
+983,RO125,Mureş,1174.0
+984,RO126,Sibiu,1947.0
+985,RO211,Bacău,1041.0
+986,RO212,Botoşani,935.0
+987,RO213,Iaşi,1387.0
+988,RO214,Neamţ,1025.0
+989,RO215,Suceava,896.0
+990,RO216,Vaslui,991.0
+991,RO221,Brăila,1092.0
+992,RO222,Buzău,979.0
+993,RO223,Constanţa,1703.0
+994,RO224,Galaţi,1267.0
+995,RO225,Tulcea,1057.0
+996,RO226,Vrancea,820.0
+997,RO311,Argeş,1281.0
+998,RO312,Călăraşi,910.0
+999,RO313,Dâmboviţa,1059.0
+1000,RO314,Giurgiu,1086.0
+1001,RO315,Ialomiţa,1060.0
+1002,RO316,Prahova,1364.0
+1003,RO317,Teleorman,1044.0
+1004,RO321,Bucureşti,2981.0
+1005,RO322,Ilfov,2429.0
+1006,RO411,Dolj,1161.0
+1007,RO412,Gorj,695.0
+1008,RO413,Mehedinţi,907.0
+1009,RO414,Olt,989.0
+1010,RO415,Vâlcea,1172.0
+1011,RO421,Arad,1636.0
+1012,RO422,Caraş-Severin,1115.0
+1013,RO423,Hunedoara,1513.0
+1014,RO424,Timiş,2136.0
+1015,SE110,Stockholms län,2381.0
+1016,SE121,Uppsala län,2314.0
+1017,SE122,Södermanlands län,2109.0
+1018,SE123,Östergötlands län,1916.0
+1019,SE124,Örebro län,3014.0
+1020,SE125,Västmanlands län,2727.0
+1021,SE211,Jönköpings län,2360.0
+1022,SE212,Kronobergs län,2319.0
+1023,SE213,Kalmar län,2438.0
+1024,SE214,Gotlands län,1907.0
+1025,SE221,Blekinge län,1849.0
+1026,SE224,Skåne län,2445.0
+1027,SE231,Hallands län,3122.0
+1028,SE232,Västra Götalands län,2504.0
+1029,SE311,Värmlands län,2301.0
+1030,SE312,Dalarnas län,2397.0
+1031,SE313,Gävleborgs län,2551.0
+1032,SE321,Västernorrlands län,2166.0
+1033,SE322,Jämtlands län,2486.0
+1034,SE331,Västerbottens län,2068.0
+1035,SE332,Norrbottens län,1939.0
+1036,SI031,Pomurska,4646.0
+1037,SI032,Podravska,4602.0
+1038,SI033,Koroška,4744.0
+1039,SI034,Savinjska,4709.0
+1040,SI035,Zasavska,4561.0
+1041,SI036,Posavska,4961.0
+1042,SI037,Jugovzhodna Slovenija,5169.0
+1043,SI038,Primorsko-notranjska,4907.0
+1044,SI041,Osrednjeslovenska,4552.0
+1045,SI042,Gorenjska,4774.0
+1046,SI043,Goriška,5065.0
+1047,SI044,Obalno-kraška,4426.0
+1048,SK010,Bratislavský kraj,3669.0
+1049,SK021,Trnavský kraj,3561.0
+1050,SK022,Trenčiansky kraj,3597.0
+1051,SK023,Nitriansky kraj,2722.0
+1052,SK031,Žilinský kraj,3625.0
+1053,SK032,Banskobystrický kraj,2809.0
+1054,SK041,Prešovský kraj,3140.0
+1055,SK042,Košický kraj,2902.0
+1056,UKC11,"Hartlepool, Stockton-on-Tees",3565.0
+1057,UKC12,South Teesside,3557.0
+1058,UKC13,Darlington,3489.0
+1059,UKC14,Durham CC,3393.0
+1060,UKC21,Northumberland,3278.0
+1061,UKC22,Tyneside,3521.0
+1062,UKC23,Sunderland,3496.0
+1063,UKD11,West Cumbria,3340.0
+1064,UKD12,East Cumbria,2918.0
+1065,UKD33,Manchester,3441.0
+1066,UKD34,Greater Manchester South West,3611.0
+1067,UKD35,Greater Manchester South East,3487.0
+1068,UKD36,Greater Manchester North West,3388.0
+1069,UKD37,Greater Manchester North East,3385.0
+1070,UKD41,Blackburn with Darwen,3729.0
+1071,UKD42,Blackpool,3487.0
+1072,UKD44,"Lancaster, Wyre",3176.0
+1073,UKD45,Mid Lancashire,3468.0
+1074,UKD46,East Lancashire,3494.0
+1075,UKD47,"Chorley, West Lancashire",3392.0
+1076,UKD61,Warrington,3589.0
+1077,UKD62,Cheshire East,3336.0
+1078,UKD63,"Cheshire West, Chester",3472.0
+1079,UKD71,East Merseyside,3775.0
+1080,UKD72,Liverpool,3480.0
+1081,UKD73,Sefton,3509.0
+1082,UKD74,Wirral,3419.0
+1083,UKE11,"Kingston upon Hull, City of",3394.0
+1084,UKE12,East Riding of Yorkshire,3065.0
+1085,UKE13,"North, North East Lincolnshire",3138.0
+1086,UKE21,York,3049.0
+1087,UKE22,North Yorkshire CC,2981.0
+1088,UKE31,"Barnsley, Doncaster, Rotherham",3487.0
+1089,UKE32,Sheffield,3157.0
+1090,UKE41,Bradford,3173.0
+1091,UKE42,Leeds,3416.0
+1092,UKE44,"Calderdale, Kirklees",3114.0
+1093,UKE45,Wakefield,3369.0
+1094,UKF11,Derby,3280.0
+1095,UKF12,East Derbyshire,3195.0
+1096,UKF13,"South, West Derbyshire",3166.0
+1097,UKF14,Nottingham,3263.0
+1098,UKF15,North Nottinghamshire,3298.0
+1099,UKF16,South Nottinghamshire,3364.0
+1100,UKF21,Leicester,3323.0
+1101,UKF22,"Leicestershire CC, Rutland",3304.0
+1102,UKF24,West Northamptonshire,3356.0
+1103,UKF25,North Northamptonshire,3336.0
+1104,UKF30,Lincolnshire,2981.0
+1105,UKG11,"Herefordshire, County of",2685.0
+1106,UKG12,Worcestershire,3077.0
+1107,UKG13,Warwickshire,3373.0
+1108,UKG21,"Telford, Wrekin",3509.0
+1109,UKG22,Shropshire CC,2978.0
+1110,UKG23,Stoke-on-Trent,3386.0
+1111,UKG24,Staffordshire CC,3293.0
+1112,UKG31,Birmingham,2959.0
+1113,UKG32,Solihull,3337.0
+1114,UKG33,Coventry,2965.0
+1115,UKG36,Dudley,3342.0
+1116,UKG37,Sandwell,3307.0
+1117,UKG38,Walsall,3231.0
+1118,UKG39,Wolverhampton,3335.0
+1119,UKH11,Peterborough,3630.0
+1120,UKH12,Cambridgeshire CC,3153.0
+1121,UKH14,Suffolk,2815.0
+1122,UKH15,"Norwich, East Norfolk",3055.0
+1123,UKH16,North and West Norfolk,2581.0
+1124,UKH17,"Breckland, South Norfolk",2810.0
+1125,UKH21,Luton,3379.0
+1126,UKH23,Hertfordshire,3322.0
+1127,UKH24,Bedford,3638.0
+1128,UKH25,Central Bedfordshire,3362.0
+1129,UKH31,Southend-on-Sea,3279.0
+1130,UKH32,Thurrock,3552.0
+1131,UKH34,Essex Haven Gateway,3179.0
+1132,UKH35,West Essex,3366.0
+1133,UKH36,Heart of Essex,3334.0
+1134,UKH37,Essex Thames Gateway,3391.0
+1135,UKI31,"Camden, City of London",5885.0
+1136,UKI32,Westminster,2623.0
+1137,UKI33,"Kensington & Chelsea, Hammersmith & Fulham",3089.0
+1138,UKI34,Wandsworth,3494.0
+1139,UKI41,"Hackney, Newham",1647.0
+1140,UKI42,Tower Hamlets,3267.0
+1141,UKI43,"Haringey, Islington",2993.0
+1142,UKI44,"Lewisham, Southwark",3088.0
+1143,UKI45,Lambeth,3337.0
+1144,UKI51,"Bexley, Greenwich",3130.0
+1145,UKI52,"Barking & Dagenham, Havering",3281.0
+1146,UKI53,"Redbridge, Waltham Forest",3185.0
+1147,UKI54,Enfield,2809.0
+1148,UKI61,Bromley,3177.0
+1149,UKI62,Croydon,3116.0
+1150,UKI63,"Merton, Kingston upon Thames, Sutton",3395.0
+1151,UKI71,Barnet,3111.0
+1152,UKI72,Brent,2999.0
+1153,UKI73,Ealing,3378.0
+1154,UKI74,"Harrow, Hillingdon",3190.0
+1155,UKI75,"Hounslow, Richmond upon Thames",3357.0
+1156,UKJ11,Berkshire,3352.0
+1157,UKJ12,Milton Keynes,3549.0
+1158,UKJ13,Buckinghamshire CC,3274.0
+1159,UKJ14,Oxfordshire,3264.0
+1160,UKJ21,"Brighton, Hove",3221.0
+1161,UKJ22,East Sussex CC,2904.0
+1162,UKJ25,West Surrey,3349.0
+1163,UKJ26,East Surrey,3366.0
+1164,UKJ27,West Sussex (South West),2982.0
+1165,UKJ28,West Sussex (North East),3292.0
+1166,UKJ31,Portsmouth,3252.0
+1167,UKJ32,Southampton,3162.0
+1168,UKJ34,Isle of Wight,2803.0
+1169,UKJ35,South Hampshire,3151.0
+1170,UKJ36,Central Hampshire,2994.0
+1171,UKJ37,North Hampshire,3353.0
+1172,UKJ41,Medway,3294.0
+1173,UKJ43,Kent Thames Gateway,3383.0
+1174,UKJ44,East Kent,2943.0
+1175,UKJ45,Mid Kent,3283.0
+1176,UKJ46,West Kent,3187.0
+1177,UKK11,"Bristol, City of",3538.0
+1178,UKK12,"Bath, NE Somerset, N. Somerset, S. Gloucestershire",3234.0
+1179,UKK13,Gloucestershire,2963.0
+1180,UKK14,Swindon,3239.0
+1181,UKK15,Wiltshire CC,2960.0
+1182,UKK21,"Bournemouth, Poole",3784.0
+1183,UKK22,Dorset CC,2434.0
+1184,UKK23,Somerset,2904.0
+1185,UKK30,"Cornwall, Isles of Scilly",2727.0
+1186,UKK41,Plymouth,3314.0
+1187,UKK42,Torbay,3142.0
+1188,UKK43,Devon CC,2890.0
+1189,UKM50,"Aberdeen City, Aberdeenshire",2943.0
+1190,UKM61,"Caithness & Sutherland, Ross & Cromarty",6932.0
+1191,UKM62,"Inverness & Nairn, Moray, Badenoch & Strathspey",1306.0
+1192,UKM63,"Lochaber, Skye & Lochalsh, Arran & Cumbrae, Argyll & Bute",7224.0
+1193,UKM64,Na h-Eileanan Siar (Western Isles),2739.0
+1194,UKM65,Orkney Islands,2283.0
+1195,UKM66,Shetland Islands,2709.0
+1196,UKM71,"Angus, Dundee City",3269.0
+1197,UKM72,"Clackmannanshire, Fife",3376.0
+1198,UKM73,"East Lothian, Midlothian",3473.0
+1199,UKM75,"Edinburgh, City of",3377.0
+1200,UKM76,Falkirk,3715.0
+1201,UKM77,"Perth & Kinross, Stirling",3096.0
+1202,UKM78,West Lothian,3640.0
+1203,UKM81,"E. Dunbartonshire, W. Dunbartonshire, Helensburgh & Lomond",3454.0
+1204,UKM82,Glasgow City,3677.0
+1205,UKM83,"Inverclyde, East Renfrewshire, Renfrewshire",3916.0
+1206,UKM84,North Lanarkshire,4035.0
+1207,UKM91,Scottish Borders,2696.0
+1208,UKM92,Dumfries & Galloway,2881.0
+1209,UKM93,"East Ayrshire, North Ayrshire mainland",1897.0
+1210,UKM94,South Ayrshire,3357.0
+1211,UKM95,South Lanarkshire,3968.0
